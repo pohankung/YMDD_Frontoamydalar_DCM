@@ -6,7 +6,7 @@
 % slightly differ from the manuscript depending on your OS and version of
 % Matlab.
 
-%-------------------------------------------------------------------------
+%% -----------------------------------------------------------------------
 
 % The first section runs a PEB model containing parameters to quantify
 % the effects of MDD remission, treatment group, 
@@ -47,7 +47,7 @@ spm_dcm_peb_review (BMA_Remission, DCM);
     % threshold - strong evidence (Pp>.95)
     % display as matrix(B), input Reappraise
 
-%-------------------------------------------------------------------------
+%% -----------------------------------------------------------------------
 
 % The second section tested the vmPFC-to-amygdala modulatory effects using 
 % leave-one-out cross validation to generate the results reported in the 

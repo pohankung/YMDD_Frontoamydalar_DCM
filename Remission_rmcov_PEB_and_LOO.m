@@ -8,7 +8,7 @@
 % slightly differ from the manuscript depending on your OS and version of
 % Matlab.
 
-%-------------------------------------------------------------------------
+%% -----------------------------------------------------------------------
 
 % The script runs a PEB model containing parameters to quantify
 % the effects of MDD remission, which are saved in M_Remission_rmcov.mat, 
